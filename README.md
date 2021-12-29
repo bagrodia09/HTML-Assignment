@@ -3,5 +3,5 @@ HTML Assignment
 
 # How To View
 
-Double Click On --> index.html
+Double Click On --> mainpage.html
 
